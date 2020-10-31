@@ -1,7 +1,7 @@
 # EmailApp
 
 ## Description 
-### This program built using Java v14.0.2 is an application that uses the scenerio of "Creating email accounts for new hires"
+### This program, built using Java v14.0.2, is an application that uses the scenerio of "Creating email accounts for new hires"
 - Generates a company email for a given name : firstname.lastname@department.testcompany.com
 - Allows for an alternate email to be associated with the account
 - Generates a random 8 digit password 

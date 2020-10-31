@@ -10,7 +10,7 @@
   1. Sales 
   2. Development
   3. Accounting 
-  4. None*
+  4. None
   
  ### To run:
  - Clone repo into IDE

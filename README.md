@@ -17,6 +17,6 @@
  - Run in terminal and follow prompts
  
  ### To test functionality:
- - Create new email, followinf example as em1 
+ - Create new email, following example as em1 
  - Print new email to console ( ie. System.out.println(em2.showinfo());
  - Run in terminal 

@@ -6,7 +6,7 @@
 - Allows for an alternate email to be associated with the account
 - Generates a random 8 digit password 
 - Generates a mailbox capacity of 250 mb
--There are 4 Department types: 
+- There are 4 Department types: 
   1. Sales 
   2. Development
   3. Accounting 
